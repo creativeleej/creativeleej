@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Haletha "Letha" Judkins.
+# Hi there! 👋 I'm Haletha "Letha" Judkins
 
 I'm a passionate technical writer with a love for crafting clear and concise documentation. My journey in the tech world goes beyond words – I enjoy getting hands-on with code and diving into the intricacies of various programming languages.
 
