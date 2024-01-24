@@ -30,6 +30,6 @@ I'm currently exploring open-source projects that need documentation assistance,
 
 - **GitHub:** [creativeleej](https://github.com/creativeleej)
 - **LinkedIn:** [halethajudkins](https://linkedin.com/in/halethajudkins)
-- **Twitter:** [@Yhalethawrites](https://twitter.com/halethawrites)
+- **Twitter:** [@halethawrites](https://twitter.com/halethawrites)
 
 Feel free to reach out for collaboration, discussions, or just to share interesting tech finds. Let's learn and grow together! 🌟
