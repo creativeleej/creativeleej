@@ -8,7 +8,7 @@ I'm a passionate technical writer with a love for crafting clear and concise doc
 
 - **Coding Aspirations:** I'm interested in going beyond documenting code. In the near future, I'd like to actively contribute to codebases. I believe that understanding the development process firsthand enhances my ability to create effective documentation.
 
-- **Continuous Learning:** I'm always hungry to learn new programming languages and technologies. Whether it's diving into a new framework or exploring the depths of a language's syntax, I find joy in expanding my technical toolkit.
+- **Continuous Learning:** My interest in programming started in college when I learned BASIC as part of my undergraduate curriculum. After college, I enrolled in C++ and Java courses. Currently, I'm halfway through Harvard University's rigorous Introduction to Computer Science online course (known as [CS50]( https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)) to refresh my knowledge and understanding of HTML, CSS, Javascript, Python, SQL, and C. I'm always hungry to learn new programming languages and technologies. Whether it's diving into a new framework or exploring the depths of a language's syntax, I find joy in expanding my technical toolkit. 
 
 ## 🛠️ Tech Stack
 
